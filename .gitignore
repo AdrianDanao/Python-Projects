@@ -1,9 +1,9 @@
 /Computer Vision/Cat Dog/train
 /Computer Vision/Cat Dog/dataset_dogs_vs_cats
 /Computer Vision/Cat Dog/finalize_dogs_vs_cats
-/Computer Vision/Cat Dog/final_model.h5
+/Computer Vision/Cat Dog/final_model.keras
 
 /Computer Vision/Emotions/dataset
 /Computer Vision/Emotions/dataset_emotions
-/Computer Vision/Emotions/finalized_emotions
+/Computer Vision/Emotions/finalized_dataset
 /Computer Vision/Emotions/final_model_emotions.keras

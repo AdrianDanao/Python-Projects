@@ -1,18 +1,15 @@
-/Computer Vision/Cat Dog/train
-/Computer Vision/Cat Dog/dataset_dogs_vs_cats
-/Computer Vision/Cat Dog/finalize_dogs_vs_cats
-/Computer Vision/Cat Dog/final_model.keras
+# Ignore Everything
+*
 
-/Computer Vision/Emotions/dataset
-/Computer Vision/Emotions/dataset_emotions
-/Computer Vision/Emotions/finalized_dataset
-/Computer Vision/Emotions/final_model_emotions.keras
+# Allow Folders/Files
+!/Computer Vision/Cat Dog/mp.ipynb
+!/Computer Vision/Cat Dog/trian.zip
 
-/Machine Learning/Heart Attack Prediction/Training_PTB
-/Machine Learning/Heart Attack Prediction/Training_PTB.zip
+!/Computer Vision/Emotions/Emotion.ipynb
+!/Computer Vision/Emotions/live.py
 
-/Shinji
+!/Machine Learning/CHD_Prediction/CHD_Prediction.ipynb
+!/Machine Learning/CHD_Prediction/chd.csv
 
-/Snake Game/__pycache__
-
-/Vocals Separator/demucs_output
+!/Machine Learning/Heart Attack Prediction/main.ipynb
+!/Machine Learning/Heart Attack Prediction/Training_PTB.zip
